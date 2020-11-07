@@ -1,0 +1,112 @@
+UTKARSH KHANDELWAL 
+
+LinkedIn: www.linkedin.com/in/utkarsh-533a70161  
+ 
+OBJECTIVE 
+
+E-mail- utkarshkhandelwal1998@gmail.com                                                                    
+
+Phone - +91-7340016341 
+
+To put my efforts, innovative thoughts, creative skills, and technologies, into use for the benefit of the 
+organization in the long run and enhance my professional career by gaining more knowledge. 
+
+ 
+
+EDUCATIONAL QUALIFICATIONS 
+
+ 
+
+Degree/Certificate 
+
+ 
+
+Institute/School 
+
+B. Tech in Communication and 
+
+The LNM Institute of Information Technology, 
+
+Computer Engineering(CCE) 
+Senior Secondary (Class XII) 
+
+Class X 
+
+Jaipur 
+
+Lords International School ,Alwar 
+Lords International School ,Alwar 
+
+ 
+
+CGPA / % 
+
+7.85 
+
+88.4 
+9.4 
+
+ 
+
+Year 
+2017-
+Present 
+
+2016 
+2014 
+
+SKILLS 
+
+● Operating System: Redhat Linux, Windows 
+● Programming Language: C, C++ , Matlab , Python  
+● Configuration Management: Ansible 
+● Continuous Integration: Jenkins 
+● Others: Docker , Kubernetes, Latex, Mattermost,  
+● Relevant Courses: C Programming, Data Structures and Algorithms, Digital Circuits and System, 
+Discrete Mathematics, Java Programming 
+SUMMER  INTERNSHIP /TRAINING 
+● Summer Internship at Nasdaq [Jun’20 –Aug’20] – Worked with System Operation team (NTS)  
+
+ 
+
+● Summer Trainee at Linux World, Jaipur [May’19 - July’19] - Technologies used: Redhat Linux, 
+Ansible, Python, Docker, Cloud Computing - Research based training based on above mentioned 
+technologies. 
+
+● IMG GLOBAL INFOTECH [Jun’18 - July’18] – Introduced to C++ language with OOPS concepts.  
+KEY ACADEMIC PROJECTS 
+● Automated Intelligent Voice Assistant: The aim of the project was to provide a developed an 
+automated voice assistant web based application system to the client so that they can configure their 
+servers using voice. 
+
+ Key technology: Ansible, docker, python, Linux (Basics).   
+
+● Cloud Computing: Services provided over Cloud were: 
+
+1.  SAAS (Software As A Service) - It Provides the clients with different Software such as Firefox 
+
+browser on their system from Docker on the Cloud Server. 
+
+2.  CAAS (Container As A Service) - A one-click launch, starting, stopping and providing the terminal 
+
+of Docker Containers. 
+
+3.  STAAS (Storage As A Service)- The Storage type was Block Storage. ISCSI protocol was used to 
+
+provide the clients with block storage available at the cloud to be used at the client system 
+
+ 
+
+CERTIFICATIONS 
+● RedHat Certified System Administrator (RHCSA). [May’19]  
+● RedHat Certified Specialist in Ansible Automation. [June’19] 
+
+ACHIEVEMENTS 
+● International Maths Olympiad - Gold Medallist (Regional Level).  
+● Scholar Badge Holder, Lords International School, Alwar for excellent academic performance. 
+
+EXTRA-CURRICULAR ACTIVITIES 
+● Event Head, (Vivacity)  
+● Sankalp Club Member 
+
+

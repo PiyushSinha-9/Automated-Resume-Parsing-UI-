@@ -1,0 +1,93 @@
+KAVYANSH CHOURASIA
+
++91-7587122143 | Email: kavyansh.chourasia98@gmail.com | LinkedIn | GitHub
+
+EDUCATION AND WORK EXPERIENCE
+
+Flutter Development Intern
+OVIO - Apparel and Fashion
+Software Development Intern
+Berkshire Solutions
+Artificial Intelligence Intern
+ExpertsHub Industry Skill Development Centre
+B.Tech in Computer Science
+International Institute of Information Technology, Naya Raipur; CGPA-9.2
+Schooling
+Delhi Public School, Durg; CBSE Board, Class X th-96%, Class XII th-92.4%
+
+PROJECTS
+
+OVIO - Shop Local | OVIO - Apparel and Fashion Link
+
+• Designed UI/UX and developed an e-commerce mobile application using Flutter
+• Established compatibility with third party software products like payment gateways
+• Wrote and deployed server-side microservices using Node.js, MongoDB and Express
+
+Roz - Connecting jobs to job seekers | Berkshire Solutions Link
+
+• Developed production-grade cross-platform mobile application using Flutter
+• Integrated services like cloud server APIs, Google Maps SDK and Firebase auth
+• Collaborated with cross-functional teams to define, design and ship new features
+
+Air UPI - A Replacement for QR Codes | IIIT Naya Raipur Link
+Air UPI is a cross platform mobile application which
+
+Raipur, Chhattisgarh
+July 2020 – Present
+Ghaziabad, Uttar Pradesh
+May 2020 – July 2020
+Pune, Maharashtra
+Nov 2018 – Jan 2019
+Naya Raipur, Chhattisgarh
+July 2017 – May 2021
+Durg, Chhattisgarh
+April 2015 – May 2017
+
+July 2020 – present
+
+July 2020 – present
+
+March 2020
+
+• Provides a way to make UPI payments at busy shops without violating social distancing norms
+• Broadcasts merchant UPI ID in a fully-offline peer-to-peer manner
+• Using a combination of Bluetooth, BLE, and WiFi hotspots
+
+DeepInsight - A CNN based approach to query answering system| IIIT Naya Raipur Link
+Built a deep machine reading comprehension model with a mobile application at its front-end to test it for various possible
+applications which include
+
+Jan 2020 – March 2020
+
+• Improving accessibility for people with visual impairments
+• Video insight for surveillance purposes
+
+PUBLICATIONS
+
+Smart Fruit Warehouse and Control System Using IoT, IEEE
+A smart fruit warehousing environment which:
+
+• Automates quality check of the fruits stored
+• Predicts optimal environment parameters for storage till user specified date
+
+AWARDS
+
+Winner - Dare In Reality Challenge’20
+Genpact
+Second Runner up - CodeUtsav 4.0
+NIT Raipur
+
+TECHNICAL SKILLS
+
+Languages: Dart, C++, Python, Java, SQL, JavaScript
+Frameworks: Flutter, React, Node.js, Flask, Django, MongoDB, Express
+Developer Tools: Git, Android Studio, VS Code, IntelliJ, AWS
+
+Jan - 2020
+
+Jan 2020 – March 2020
+Bangalore, Karnataka
+Jan 2020
+Raipur, Chhattisgarh
+
+

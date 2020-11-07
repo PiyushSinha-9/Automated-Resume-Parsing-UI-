@@ -1,0 +1,115 @@
+               PIYUSH SINHA 
+piyushsinha940@gmail.com​  ​|  ​linkedin/piyush20​  ​|​ ​ ​github/piyushSinha-9​  ​|​  ​+91 8393820860   
+ 
+
+ 
+EDUCATION
+❖ Lovely Professional University, Punjab, India
+
+Bachelors in computer science (Honours);  CGPA:  8.42/10 
+
+2017-2021 
+
+ EXPERIENCE 
+❖ NASDAQ   
+  ​Bengaluru​, India 
+               ​June-2020 to August-2020 
+Summer Intern 
+● Created a framework in Java for automation testing in Web and Mobile (Android and iOS) using Appium. 
+● Integrated the framework with production apps of Nasdaq and cloud testing platform, i.e SauceLabs. 
+● Worked with the DevOps team to learn about Jenkins, Azure TFS, CI/CD pipeline.
+
+ 
+
+TECH Stack -: ​Java Maven, Appium, Selenium, SureFire Plugin, ThreadSafety, etc. 
+
+ 
+
+PROJECTS 
+    E-Commerce Website 
+
+ 
+
+ 
+
+● Created this fully functional e-Commerce website which is well equipped with user authentication, payment 
+
+gateway, search option for products, classification of different products, etc. 
+
+● Used HTML and CSS for web design, JavaScript for user interactivity, React and Redux for front-end and 
+
+implemented web API using Node and MongoDB. 
+
+ 
+
+   ​WatchCrow
+
+ 
+
+ 
+
+                                ​Rackathon 2.0 Hackathone 
+
+● Got selected in an on-site hackathon in Bangalore named Rackathon 2.0 organized by Rakuten company.  
+● Developed a face recognition model using Local Binary Pattern Histogram algorithm, OpenCV, Numpy, OS. 
+● Our team (LAZY_GENE)​ ​landed in the top 10​ ​among 250+ teams across India. 
+
+ Realtime Chat Application
+
+ 
+
+● Developed this application as a part of a college project.  
+● Used React.js for frontend and NodeJS and Socket.io web socket library on the back end. 
+
+ Photo Label Detection Application
+
+ 
+
+Building on AWS, EDX course 
+
+● Created this application in python Flask which allows user to upload an image, labels related to the image 
+
+gets generated using Amazon Rekognition service. 
+
+● Worked with many Amazon services like EC2 metadata, VPC, AWS IAM, Cloud9, RDS, Load Balancer, etc.   
+ 
+
+ACHIEVEMENTS 
+
+● My name got published in some newspapers like PunjabTribune, The Hindu, ​Education Times​ etc. 
+● Cracked Nasdaq through a hiring challenge on HackerEarth, only 13 including me got selected across India. 
+● Specialist* (Max rating) in Codeforces (id -: piyushsinha276.ps) and 5 stars in C++ and problem-solving in 
+
+Hackerrank (id -: piyushsinha276_1). 
+
+Rakuten at Bangalore, India.  
+
+​LAZY_GENE​) landed in the​ top 10​ among 250+ teams participating in a hackathon organized by 
+
+● Our Team (​
+● We (CodeScripter) secured 5461st rank in the world in Google Hash Code. 
+● 1st Runner up in CODERAID ​competition held in our college sponsored by CodeChef.  
+● Apart from ​Nasdaq​, received internship offers from ​SpringWorks​ (SDE intern role) in February 2020 and 
+
+Paytm Money​ ​(Back-end intern role) in October 2020. 
+ 
+
+SKILLS 
+
+Language​ -: C++, Python, Java and Javascript. 
+Frameworks​ -:  Flask, Keras, SciKit-Learn, MySQL, Appium, Selenium 
+Familiar​ -:  AWS, NodeJS, React, API-Design, Docker, Jenkins 
+Version Controls​ -: Git, SVN 
+Strong understanding of OOPs concepts, Data Structure and Algorithms 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+

@@ -1,0 +1,189 @@
+<!DOCTYPE html>
+<html class="gr__getpapercss_com"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+  
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="description" content="AI based Resume screening">
+<meta name="author" content="CodeByte!">
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+
+<link rel="shortcut icon" href="" type="image/x-icon">
+<link rel="shortcut icon" href="{{ url_for('static', filename='favicon.ico') }}">
+  <title>Hiring Companion</title>
+  
+<link rel="stylesheet" href="./static/paper.css">
+<link rel="stylesheet" href="./static/demo.css">
+
+<script type="text/javascript" async="" src="./static/analytics.js"></script>
+<script async="" src="./static/js"></script>
+<script
+  src="https://code.jquery.com/jquery-3.3.1.min.js"
+  integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8="
+  crossorigin="anonymous"></script>
+
+
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-109223301-1');
+</script>
+
+
+<style>
+
+.form-group textarea{
+  width: 65%;
+  height: 120px;
+}
+
+
+body {
+  background: #092756;
+  background: -moz-radial-gradient(0% 100%, ellipse cover, rgba(104,128,138,.4) 10%,rgba(138,114,76,0) 40%),-moz-linear-gradient(top,  rgba(57,173,219,.25) 0%, rgba(42,60,87,.4) 100%), -moz-linear-gradient(-45deg,  #670d10 0%, #092756 100%);
+  background: -webkit-radial-gradient(0% 100%, ellipse cover, rgba(104,128,138,.4) 10%,rgba(138,114,76,0) 40%), -webkit-linear-gradient(top,  rgba(57,173,219,.25) 0%,rgba(42,60,87,.4) 100%), -webkit-linear-gradient(-45deg,  #670d10 0%,#092756 100%);
+  background: -o-radial-gradient(0% 100%, ellipse cover, rgba(104,128,138,.4) 10%,rgba(138,114,76,0) 40%), -o-linear-gradient(top,  rgba(57,173,219,.25) 0%,rgba(42,60,87,.4) 100%), -o-linear-gradient(-45deg,  #670d10 0%,#092756 100%);
+  background: -ms-radial-gradient(0% 100%, ellipse cover, rgba(104,128,138,.4) 10%,rgba(138,114,76,0) 40%), -ms-linear-gradient(top,  rgba(57,173,219,.25) 0%,rgba(42,60,87,.4) 100%), -ms-linear-gradient(-45deg,  #670d10 0%,#092756 100%);
+  background: -webkit-radial-gradient(0% 100%, ellipse cover, rgba(104,128,138,.4) 10%,rgba(138,114,76,0) 40%), linear-gradient(to bottom,  rgba(57,173,219,.25) 0%,rgba(42,60,87,.4) 100%), linear-gradient(135deg,  #670d10 0%,#092756 100%);
+  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#3E1D6D', endColorstr='#092756',GradientType=1 );
+}
+
+#upload_button {
+  display: inline-block;
+}
+#upload_button input[type=file] {
+  display:none;
+}
+
+
+</style>
+
+<script>
+
+$("#formid").submit(function(e) {
+
+	$("#formdiv").hide();
+	$("#resultdiv").show();
+	resetResult();
+
+	console.log("submit");
+   	console.log($("#formid").serialize());
+
+/* var url = ""; 
+    $.ajax({
+           type: "POST",
+           url: url,
+           data: $("#formid").serialize(),
+           success: function(data)
+           {
+               alert(data); 
+           },
+	   error: function(data)
+           {
+               alert("error"); 
+           }
+         });*/
+
+    e.preventDefault(); 
+});
+
+
+
+$("resetResult").click(function(){
+	$("#formdiv").show();
+	$("#resultdiv").hide();
+});
+
+$( document ).ready(function() {
+	$("#resultdiv").hide();
+});
+
+function resetResult(){
+	$("#result").innerHTML = "Processing....";
+}
+
+</script>
+
+
+
+
+</head>
+
+
+
+
+<body data-gr-c-s-loaded="true">
+  <div id="top" class="row site">
+    <div class="sm-12 md-8 col">
+      <div class="paper">
+        <div class="demo-title">
+          <div class="row flex-center">
+            <div class="text-center">
+              <h1>Hr's Hiring Companion</h1>
+              <h3>The automatic resume scruitny system</h3>
+            </div>
+          </div>
+        </div>
+        <div class="section">
+          
+		
+            {% if session.logged_in %}
+		<table class="table-hover">
+			<thead>
+			  <tr>
+				<th>Rank</th>
+				<th>Resume</th>
+			  </tr>
+			</thead>
+			{% for r in results :%}
+				<tbody>
+			  		<tr>
+						<td>{{r.rank}}</td>
+						<!-- <td><a href="{{url_for('custom_static', filename=r.filename)}}">{{r.filename}}</a></td> -->
+            <td>{{r.filename}}</td>
+			  		</tr>
+				</tbody>
+			{% endfor %}
+
+		</table>
+<br>
+          <form action="/home" method="GET" style="text-align:center">
+        
+            <button type="submit" class="btn btn-primary btn-lg">Do it again</button>
+
+          </form>
+          {% endif %}
+	</div>
+
+
+          
+      </div>
+    </div>
+
+    <div class="sm-12 md-4 col sidebar">
+    
+    <div class="paper">
+      <h3 class="sidebar-title" style="text-align:center">
+        Aim
+      </h3>
+      
+          <div class="row flex-center">
+              <p>  We aim to create an automated hiring tool, which will help the recruitment team. Our tool will try to find the most eligible candidates resume according to the job description.
+              </p> 
+            </div>
+     
+    <!-- </div>
+    
+    <div class="paper">
+      <div class="row flex-center">
+        <p>Made with 💛 @ <italic>CodeByte</italic>!</p>
+      </div>
+    </div>
+</div> -->
+
+</div>
+
+
+
+
+</body></html>

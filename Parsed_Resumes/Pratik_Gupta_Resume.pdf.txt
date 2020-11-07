@@ -1,0 +1,108 @@
+PRATIKGUPTA
+
+(cid:135) github.com/pratikg1999
+
+CSEundergradatIIITNayaRaipur
+(cid:211) 98937-92385
+Ǜ pratik17100@iiitnr.edu.in
+EDUCATION
+BachelorofTechnology,CSE
+IIITNayaRaipur
+(cid:17) Aug2017–May2021
+9.75CGPA
+HIGHERSECONDARYEXAMINATION
+DelhiPublicSchool,Janjgir-Champa
+(cid:17) 2017
+92%
+SECONDARYEXAMINATION
+DelhiPublicSchool,Janjgir-Champa
+(cid:17) 2015
+10CGPA
+PROJECTS
+IdenticationofDeepFakesusingadvancedDeepLearn-
+ing
+(Jan2020-April2020)
+• Developedadeepfakedetectionnetworkpipelinetodetect
+videoswithfacialmanipulation.
+• AnRNNwastrainedtocapturetemporalandintra-frame
+inconsistencies.
+• Ranked328outof2265teams(top15%)intheprivate
+leaderboardonKaggle.
+• TechStack: Python,Keras,OpenCV
+Github
+(Aug2019-Jan2020)
+EarlywarningsystemforADRs
+• Developedawebapplicationfordoctorstogetinformation
+regardingtheprobabilityofAdverseDrugReactionsassoci-
+atedwiththedrugstobeprescribedtopatients.
+• WonPrizemoneyofRs3LakhsinGenpacts’s"DareinReal-
+ityChallenge".
+• TechStack: Django,Bootstrap,Python,Sklearn
+Github
+Androidapptoaskandanswerquestioninvideoformat
+forindividualandinstitute
+(May2019-Jul2020)
+• CreatedaRestAPIusingSpringBoottosupporttheoverall
+working.
+• DesignedtheUIandfunctionalitiesoffrontendusingutter.
+• TechStack: Flutter,SpringBoot
+Github
+DigitalOutpassapp
+(Jan2019-May2019)
+• Theappeliminatestheneedforpaperoutpassandthete-
+diousprocesstoobtainit.
+• Usedrebaseforauthentication,databaseandstorage.
+• TechStack: AndroidStudio,Firebase
+Github
+(Ongoing)
+YatraApp
+• Createdtheapp(includingwithUIandlogic)fortrackingthe
+performanceof"bolkars"(usersoftheapp).
+• TechStack: AndroidStudio,SQLite
+
+ﬂ https://www.linkedin.com/in/pratikg1999/
+EXPERIENCE
+EkalavyaSummerIntern
+IITBombay
+(cid:17) May2019–July2019
+• Workedonproject-"Androidapptoaskandanswerques-
+tionsinvideoformatforindividualsandinstitute".
+• DesignedtheUIandfunctionalitiesoffrontendusingut-
+ter.
+• DevelopedaRestAPIusingSpringBoottosupportthe
+overallworking.
+ProcessAutomationIntern
+StoneShippersLtd
+(cid:17) June2020–August2020
+• WroteGoogleAppScriptforautogenerationofinvoiceon
+GoogleSheets.
+• Automatedreadingemailstosheets.
+• Createdrestapi(usingNodeJs)forPDFformlling.
+SoftwareDeveloperIntern
+CGNetSwara
+(cid:17) June2020–Present
+• Created"Yatraapp"usingAndroidStudioforusebythe
+employeesandtrackingtheirperformance.
+TECHNICALSKILLS
+Languages: Java,Python,C++,JavaScript,C
+Frameworks/Tools: Django,SpringBoot,Android,Flut-
+ter,Git,React,CSS,HTML,NodeJS,linux
+Database: MySQL
+Others: Algorithms,DataStructures,MachineLearn-
+ing,DeepLearning,Keras
+SOFTSKILLS
+Leadership,AbilitytoWorkUnderPressure,Decision
+Making,TimeManagement,Adaptability,Teamwork,
+Creativity
+ACHIEVEMENTSANDEXTRA-
+CURRICULAR
+• WontheGenpact’sDareinRealityChallenge2019-20.
+• QualiedandpitchedattheHultPrizeBangkokRegionals
+2020.
+• Awardedafullmerit-basedscholarshiponB.Techtuition
+feesbyC.G.Government.
+• AchievedCodeChefHighestRatingof1880(4
+star).—Codechef.
+• 2timeState-LevelPlayerinChess.
+
+
