@@ -1,6 +1,6 @@
 ## Automated Resume Screening and Searching
 
-Our Team (Lazy_Gene) created this project for NashHack Hakathon (internal competition of Nasdaq).
+Our Team (Lazy_Gene) created this project for NashHack Hackathon (internal competition of Nasdaq).
 
 #### Working Screenshots
 
